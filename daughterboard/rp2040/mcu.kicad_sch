@@ -2358,6 +2358,11 @@
           (reference "C?") (unit 1)
         )
       )
+      (project ""
+        (path "/e9840688-5c8e-4bba-9b3e-3c2378c0adec"
+          (reference "C?") (unit 1)
+        )
+      )
       (project "facade60_daughterboard"
         (path "/f38ff1aa-93da-4921-822e-bb76df493062/47b733e1-6075-4666-ac70-01e848e9817c"
           (reference "C8") (unit 1)
@@ -2603,6 +2608,11 @@
       )
       (project ""
         (path "/e4c51425-85cf-447d-b71b-92ae0b8d3ea4"
+          (reference "C?") (unit 1)
+        )
+      )
+      (project ""
+        (path "/e9840688-5c8e-4bba-9b3e-3c2378c0adec"
           (reference "C?") (unit 1)
         )
       )
