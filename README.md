@@ -10,6 +10,8 @@
 - USB & RP2040 MCU daughterboard
 - [QMK](https://qmk.fm/) and [Vial](https://get.vial.today/) support
 
+[Demo video](https://youtu.be/Ful9dqWGcHk)
+
 ## Structure
 
 ![](https://i.imgur.com/mCEPxZT.png)
