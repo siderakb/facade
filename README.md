@@ -45,11 +45,20 @@ Daughterboard PCBA available.
 - Edge card connectors: No
 - Plated board edge: No
 
+## Case
+
+CAD files: [onshape](https://cad.onshape.com/documents/bbbe7399d3367f05c1e650e9/w/14fd774c6821c6187949e29b/e/877617ade201dbca93eed7b8)
+
+### Screw
+
+- 6* M2.5x10~12, OD < 5mm, for case
+- 4* M2x2, 90° flat head, for weight
+- 4* M2.5x3~5, OD <3.5mm, for PCB
+
 ## Firmware
 
 [Vial-QMK](https://github.com/siderakb/vial-qmk/tree/siderakb/main/keyboards/siderakb/facade) (*siderakb/main* branch)
 
 ## License
 
- Hardware available under the [CERN-OHL-P v2](/LICENSE) permissive license.
- 
+Hardware available under the [CERN-OHL-P v2](/LICENSE) permissive license.
